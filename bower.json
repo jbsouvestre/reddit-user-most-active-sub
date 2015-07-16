@@ -1,0 +1,20 @@
+{
+  "name": "reddit-user-activity",
+  "version": "0.0.0",
+  "authors": [
+    "jbsouvestre@gmail.com"
+  ],
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
